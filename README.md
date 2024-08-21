@@ -2,10 +2,11 @@ SEW | Vue App Template
 
 ## User Story 1
 
-*TODO*
+*As a vue.js Developer I can scaffold and run a Vue Single Page Application on my local machine.*
 
 ### Acceptance Criteria
-- TODO
+- The build setup is based on Vite.
+- The template allows to use Vue Single-File Components (SFCs).
   
 ## Skill(s)
 - [npm Basics](https://my.skilldisplay.eu/en/skill/2989/0)
