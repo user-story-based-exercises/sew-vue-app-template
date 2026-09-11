@@ -14,6 +14,13 @@ SEW | Vue App Template
 
 ### Acceptance Criteria
 - Some text has been updated/added compared to the initial app.
+
+## User Story 3
+
+*As a vue.js Developer I can prepare my Vue app for deployment.*
+
+### Acceptance Criteria
+- Vue App is ready to be deployed on a web server.
   
 ## Skill(s)
 - [npm Basics](https://my.skilldisplay.eu/en/skill/2989/0)
